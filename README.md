@@ -17,8 +17,22 @@ WhatsApp Chat Analyzer is a Python-based tool that helps you analyze your WhatsA
 
 To get started, clone the repository and install the required dependencies.
 
-```bash
+bash
 git clone https://github.com/Kkumar-007/WhatsApp_Chat_Analyser.git
 cd WhatsApp_Chat_Analyser
-pip install -r requirements.txt'''
+pip install -r requirements.txt
 
+## Usage
+
+### Export WhatsApp Chat:
+
+- Export the chat you want to analyze from WhatsApp without media (text file format).
+- Save the `.txt` file in the project directory.
+
+### Run the Analyzer:
+
+- Open a terminal and navigate to the project directory.
+- Execute the script using Python.
+
+```bash
+python whatsapp_chat_analyzer.py --file chat.txt
