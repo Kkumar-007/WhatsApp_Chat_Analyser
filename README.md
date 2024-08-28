@@ -1,8 +1,5 @@
 # WhatsApp Chat Analyzer
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
-
 WhatsApp Chat Analyzer is a Python-based tool that helps you analyze your WhatsApp chat data. It provides insights such as the most active users, the frequency of messages, and the most common words used in your conversations.
 
 ## Features
